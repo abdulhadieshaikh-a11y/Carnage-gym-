@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="140" viewBox="0 0 700 140" role="img" aria-labelledby="title">
+  <title id="title">Carnage Gym</title>
+  <g fill="#f7f6f3" font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="0" y="82" font-size="98" letter-spacing="1">CARNAGE</text>
+    <path d="M0 104h525v4H0z" />
+    <text x="540" y="137" font-size="40" letter-spacing="3">GYM</text>
+  </g>
+</svg>
